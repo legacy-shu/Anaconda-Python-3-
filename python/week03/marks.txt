@@ -1,0 +1,13 @@
+Student,Python,Web,Databases
+Jack,92,85,92
+Amy,45,56,48
+Sam,83,12,65
+Abid,19,98,72
+Mick,5,99,65
+Abi,54,54,12
+Ali,59,97,65
+Harry,62,23,87
+Mandy,65,82,15
+Tia,71,53,12
+Fred,72,59,63
+Riz,76,45,94
