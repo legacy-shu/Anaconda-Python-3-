@@ -1,0 +1,6 @@
+Colour,Favourite
+Red,6
+Blue,3
+Green,10
+Yellow,8
+Purple,4	
