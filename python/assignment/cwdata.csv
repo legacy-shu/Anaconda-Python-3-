@@ -1,0 +1,121 @@
+Income,Post-code,Employed,Home Owner,Education,Gender,Balance,Age,Colour,Fraud
+10500,C4,,N,School,F,300,25,Yellow,N
+26525,G5,Y,N,College,Male,3500,25,Green,N
+8230,A1,N,N,School,F,1250,25,Red,1
+25000,S5,N,N,U ,F,6755,19,Yellow,Y
+15250,G7,No,N,School,Male,810,23,Red,Y
+42000,H3,Y,Yes,University,F,12000,54,Yellow,N
+125500,R5,Y,Yes,College,Male,76540,25,Red,N
+12500,E2,N,N,S,F,4500,24,Red,Yes
+76300,D3,No,N,University,Female,55030,65,Purple,N
+12340,S1,N,N,School,M,550,28,Red,Yes
+150600,C4,Yes,Y,School,M,240000,25,Blue,No
+21500,C3,N,N,S ,Male,120,28,Red,1
+15000,D4,N,N,School,F,4300,25,Red,Y
+6550,F2,N,No,Coll,F,5235,21,Red,1
+52000,H1,Yes,Y,S ,Female,67850,45,Blue,N
+45000,W7,Yes,N,School,F,32250,55,Green,0
+12300,D8,N,N,C ,F,365,23,Red,1
+35200,H1,N,N,Uni ,M,7650,72,Blue,No
+45500,C9,N,N,School,F,23650,33,Green,N
+32250,B2,N,N,College,M,15425,25,Purple,0
+15230,N4,N,,,Male, ,32,Yellow,N
+17890,B6,N,N,C ,F,1245,26,Red,N
+34560,J5,N,Yes,School,Female,21765,56,Green,N
+43235,D7,Yes,N,Coll ,F,34835,25,Green,No
+18500,B9,No,N,College,F,3455,25,Red,Y
+23450,S9,N,N,School,Male,340,27,Red,Y
+10300,S3,N,N,School,F,3590,21,Red,1
+54560,D3,Y,Y,Uni ,Male,12225,32,Yellow,N
+46540,V5,Yes,N,School,M,31350,54,Blue,N
+5450,B6,No,N,University,M,2350,21,Red,Y
+95500,N8,N,N,School,Male,87650,25,Green,N
+47650,M2,N,Y,Coll ,Female,65040,45,Yellow,N
+12345,M1,No,N,School,F,0,23,Red,Yes
+75430,B5,N,N,School,M,66545,27,Pink,0
+54350,F7,,N,University,Female,43575,53,Yellow,No
+42130,F3,N,,School,F,650,32,Blue,N
+12340,G7,N,N,C ,F,540,24,Red,Yes
+63225,C1,N,N,School,Female,34545,45,Yellow,N
+32450,N2,No,Yes,Uni ,,15455,65,Blue,0
+31240,V1,N,Yes,School,M,3240,25,Yellow,N
+21500,K6,N,No,Coll ,M,435,19,Red,Y
+45050,D8,Y,Yes,School,F,9875,28,Blue,N
+11250,C6,N,N,School,Female,1235,25,Red,1
+7450,B1,N,N,Uni ,F,120,35,Blue,N
+15600,A3,N,,School,F,0,24,Red,Yes
+46530,V5,N,Yes,School,Female,54345,25,Green,N
+22450,S9,N,N,School,Male,3460,18,Red,Y
+18650,A4,N,N,Coll,Male,2900,25,Red,Y
+68540,N5,Y,Y,S ,M,34500,25,Green,0
+54350,H5,N,N,Uni ,Female,65,32,Yellow,No
+32480,N2,Yes,N,University,F,0,25,Blue,N
+84560,M2,N,Y,School,F,435,25,Pink,N
+8650,G5,N,N,Coll ,Male, ,21,Red,Yes
+37650,J8,N,Yes,S ,M,4560,25,Pink,N
+47650,L3,Y,Yes,Coll ,Female, ,34,Yellow,N
+12345,P8,N,N,School,F,3245,25,Red,Y
+76300,L2,Yes,Y,University,F,50,28,Yellow,N
+12340,C6,N,N,School,M,2345,28,Red,Yes
+150600,N3,Y,Y,College,Male,12345,54,Pink,No
+21500,B5,N,N,S ,M,320,28,Red,1
+15000,C4,No,N,School,Male,1255,65,Red,Y
+6550,V3,N,N,,F,0,45,Yellow,N
+52000,C2,N,N,S ,Male, ,25,Purple,N
+45000,N5,Y,Yes,University,Female,12350,25,Blue,No
+12300,J5,N,N,School,M,450,18,Red,Y
+35200,S7,Y,N,Uni ,Female,5475,25,Yellow,N
+12340,M5,N,N,C ,Male,1230,26,Red,Yes
+63225,N8,Yes,Y,School,Male,45670,43,Green,N
+32450,B7,Yes,Yes,Uni ,Male,12340,25,Purple,0
+31240,G5,N,Y,School,M,540,52,Green,No
+21500,D7,N,N,Coll ,Female,1240,25,Red,Y
+45050,K5,Y,Y,School,F,3500,43,Yellow,N
+11250,L2,N,Y,Uni ,F,23000,46,Blue,N
+7450,F6,N,N,S,Male,345,23,Red,Y
+15600,D6,N,N,School,Female,3100,25,Red,1
+16530,R6,N,N,College,Male,4450,21,Red,1
+22450,F8,N,N,Coll ,M,2325,27,Red,Y
+45000,C4,Y,Y,U,M,3200, ,Yellow,N
+12300,B7,N,N,School,F,2395,25,Res,Yes
+35200,N3,Yes,Y,Uni ,Male,5645,41,Blue,N
+12340,M2,N,N,C ,M,1250,25,Red,Y
+63225,H3,Y,N,School,M,24500,25,Green,N
+32450,F9,Y,Y,Uni ,Male,4500,54,Yellow,N
+31240,G4,Y,N,School,Female, ,54,Yellow,N
+12450,R8,N,N,S,Female,4560,25,Red,Y
+21500,E6,N,N,Coll ,Male,3250,24,Red,Yes
+45050,D4,N,Y,School,M,45000,54,Pink,N
+11250,C8,N,N,Coll,Female,300,29,Red,Y
+21500,B5,N,N,S ,,3450,28,Red,1
+15000,C4,N,N,School,F,300,25,Red,Yes
+6550,V5,N,N,College,Male,420,21,Red,Yes
+52000,A7,Yes,Y,S ,Female,21400,34,Yellow,N
+45000,J2,Yes,Y,U,Male,300,65,Blue,N
+12300,B5,N,N,School,M,2350,25,Red,1
+35200,M2,N,N,Uni ,M,4500,29,Green,N
+5500,F8,N,N,School,F,4590,23,Red,Y
+32250,G5,Yes,Y,Uni ,Male,52000,34,Yellow,0
+11250,B8,N,N,School,F,4500,22,Red,Y
+7450,M2,N,N,S,Male,2350,25,Red,Y
+15600,L3,N,N,Coll ,Female,150,18,Red,1
+46530,T6,Y,Y,Coll,M,30000,25,Green,N
+22450,E7,N,Y, ,Female,5400,36,Yellow,0
+45000,F7,Y,Yes,School,Male,54500,25,Blue,N
+12340,H3,N,N,School,Male,300,21,Red,Y
+35200,T9,Y,Y,Uni ,Male,43000,25,Pink,N
+68540,C5,Yes,Yes,Uni,F,56500,37,Pink,N
+54350,C9,N,Y,Uni,Female,4300,54,Yellow,N
+32480,G3,Yes,N,,M,25450,33,Yellow,N
+84560,T5,Y,Y,U,M,23000,54,Blue,N
+8650,N6,N,N,School,Male,545,19,Red,Y
+37650,B3,N,N,S ,M,300,43,Yellow,N
+9225,S2,N,N,School,Female,4535,25,Red,Y
+32450,A5,Y,Y,Uni ,F,,43,Pink,N
+12400,W3,No,N,School,F,1200,23,Red,N
+21500,V5,N,N,Coll ,M,2345,21,Red,Yes
+45050,G8,Y,Y,University,Male,54500,54,Yellow,N
+11250,D4,N,N,School,F,3250,29,Red,1
+7450,D1,N,N,Coll,Male,4560,19,Red,Y
+12250,F5,N,N,Uni ,F,300,25,Yellow,N
+8450,,N,N,S,M,2455,23,Red,Y
